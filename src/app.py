@@ -130,4 +130,4 @@ with col2:
 
 # --- 6. Footer ---
 st.markdown("---")
-st.caption("© 2026 Faculty of Information Technology, Rajabhat Mahasarakham University.")
+st.caption("© 2026 Faculty of Science and Technology, Rajabhat Mahasarakham University.")
