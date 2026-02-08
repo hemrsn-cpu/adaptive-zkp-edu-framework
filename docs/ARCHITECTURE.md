@@ -17,6 +17,7 @@ graph TD
     MethodA -->|4. Show Certificate| Verifier
     
     Verifier -->|5. Verify Validity| Result{✅ Valid?}
+
     🔍 Component Roles
 Issuer (University): Signs and issues the degree on the blockchain/database.
 
