@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "id": "STU-66001",
+      "name_hash": "a1b2c3d4...", 
+      "degree": "M.Sc. ICT for Education",
+      "gpa": 3.85,
+      "graduation_year": 2026,
+      "attributes": {
+        "honors": true,
+        "misconduct_record": false
+      }
+    },
+    {
+      "id": "STU-66002",
+      "name_hash": "x9y8z7...",
+      "degree": "B.A. Information Science",
+      "gpa": 2.50,
+      "graduation_year": 2025,
+      "attributes": {
+        "honors": false,
+        "misconduct_record": true
+      }
+    }
+  ]
+}
