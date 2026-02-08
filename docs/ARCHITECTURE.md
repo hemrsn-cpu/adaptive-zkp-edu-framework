@@ -16,9 +16,9 @@ graph TD
     MethodB -->|4. Generate Proof| Verifier([🏢 Employer / Verifier])
     MethodA -->|4. Show Certificate| Verifier
     
-    Verifier -->|5. Verify Validity| Result{✅ Valid?}```
-
-    🔍 Component Roles
+    Verifier -->|5. Verify Validity| Result{✅ Valid?}
+```
+🔍 Component Roles
 Issuer (University): Signs and issues the degree on the blockchain/database.
 
 Holder (Student): Owns the data and decides how much to reveal.
