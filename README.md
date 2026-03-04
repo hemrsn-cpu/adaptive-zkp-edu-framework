@@ -6,4 +6,4 @@
 - **Privacy by Design:** Mathematically proves criteria without revealing raw data.
 
 ---
-**Copyright © 2026 Pannawat Chanvicha. All rights reserved.**
+**Copyright © 2026 Pannawat Chanwicha. All rights reserved.**
